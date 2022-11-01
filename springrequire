@@ -501,5 +501,3 @@ function spr.stop(instance, property)
 		springStates[instance] = nil
 	end
 end
-
-return table.freeze(spr)
